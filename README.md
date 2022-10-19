@@ -19,4 +19,4 @@ CRACK FB IJO
 
 🔰cd Newv1
 
-🔰python V1.py
+🔰python v1.py
